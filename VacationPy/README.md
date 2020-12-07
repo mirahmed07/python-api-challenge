@@ -13,4 +13,4 @@ Malakal	      SS		Nile Palace Hotel
 Pālkonda	    IN		Lodge Uma Sankar
 Shwebo	      MM	  Shwe Pyi ThuKha Guest House
 
-![hotel_maps](Images/hotels.png)
+![hotel_maps](Images/hotels.PNG)
