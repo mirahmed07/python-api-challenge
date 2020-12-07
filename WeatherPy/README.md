@@ -4,7 +4,7 @@
 ## Observation 1:
 
 
-Southern Hemisphere climates tend to have slightly less (scattered) humidity than those at similar opposite latitudes in the Northern Hemisphere. This is probably because the Southern Hemisphere has significantly more ocean and much less land.
+Southern Hemisphere climates tend to have slightly less (scattered on the plot) humidity than those at similar opposite latitudes in the Northern Hemisphere. This is probably because the Southern Hemisphere has significantly more ocean and much less land.
 
 
 ## Observation 2:
