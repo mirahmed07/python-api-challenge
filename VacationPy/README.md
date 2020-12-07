@@ -1,5 +1,9 @@
 # VacationPy
-Below are the locations I can go visit this time of the year
+
+## Run date: 12/07/2020
+
+
+### Below are the locations I can go visit this time of the year
 
 |City	      |Country|	Hotel Name                     |
 |-----------|-------|--------------------------------|
